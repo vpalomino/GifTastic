@@ -1,0 +1,45 @@
+* {
+	box-sizing: border-box;
+}
+
+body { 
+
+	background-image: url("../images/stagee.jpg")
+
+ }
+
+.navbar-header{
+	background-color: #66ffff;
+}
+
+.container {
+	width: 960px;
+	margin: 0 auto;
+	overflow: auto;
+}
+#headertext {
+	font-weight: bold;
+	font-size: 40px;
+	padding: 40px 0px;
+	
+}
+
+#icon {
+	height: 45%;
+	width: 45%;
+	padding: 15px 10px 15px 20px;
+	float: left;
+	display: inline;
+
+}
+
+
+#dance-input {
+	padding: 26px 30px 20px 0px;
+	display: inline;
+
+}
+
+
+	
+	
